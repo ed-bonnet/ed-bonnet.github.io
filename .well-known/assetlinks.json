@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "fr.edbonnet.claribulle",
+      "sha256_cert_fingerprints": [
+        "68:80:12:A3:7A:9D:59:37:F0:7E:76:71:01:FD:99:68:32:BB:86:7B:60:A6:41:3D:E4:DC:80:40:FC:DD:04:2F",
+        "F6:1C:A1:61:FB:B4:2E:3F:1E:86:3A:76:AD:B0:74:C6:15:38:76:22:89:9F:FE:A3:5E:63:1D:E2:D9:00:EF:1D"
+      ]
+    }
+  }
+]
